@@ -1,6 +1,11 @@
 #include <stdio.h>
 
 int main() {
-    printf("Olá, mundo!");
+    int idade;
+    int quantidade;
+    flot altura;
+    char letra;
+    char nome[];
+    
     return 0;
 }
