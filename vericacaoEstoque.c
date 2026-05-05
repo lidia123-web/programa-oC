@@ -4,6 +4,6 @@ int main() {
 
     if (estoque < 5) {
         printf("Estoque baixo\n");
-    }
+    } else
     return 0;
 }
